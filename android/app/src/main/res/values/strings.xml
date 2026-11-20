@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">لمصطفى</string>
+    <string name="title_activity_main">لمصطفى</string>
+    <string name="package_name">com.lamostafa.app</string>
+    <string name="custom_url_scheme">com.lamostafa.app</string>
+</resources>
